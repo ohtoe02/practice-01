@@ -1,0 +1,43 @@
+commit 8d74c2e868d76ac565585f8da2d45f92249759d4
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:59:37 2025 +0500
+
+    added prerelease.txt
+
+commit 8e2e5c9ec35480678f1a6590dda9040b4d784df9
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:58:37 2025 +0500
+
+    added test.txt
+
+commit f8c9849a57eac1095e76985afdd5fa786d6c7f64
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:57:17 2025 +0500
+
+    added .gitignore
+
+commit c23b516cf71e0d4a771a5570ef4e02444e39d95a
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:55:37 2025 +0500
+
+    Revert "difficulty rating set"
+    
+    This reverts commit ef919fc5ab0392c4a4362b9d2c99b8c4f89bd1e6.
+
+commit 785ced4b0bf3543896c8edcc5911859def17e7f1
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:53:35 2025 +0500
+
+    subject and cabinet set
+
+commit ef919fc5ab0392c4a4362b9d2c99b8c4f89bd1e6
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:50:01 2025 +0500
+
+    difficulty rating set
+
+commit 5e5fad10e78b2d6299b651dd723831b5424e69cb
+Author: Vyatkin Sergey <ohtoe02@gmail.com>
+Date:   Thu Jun 19 01:49:19 2025 +0500
+
+    first commit
