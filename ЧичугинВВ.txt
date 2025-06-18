@@ -1,0 +1,835 @@
+commit 6bea686f6477890501d5dd3098bc3dd0fce69741
+Author: Vladimir Chichugin <growder1@gmail.com>
+Date:   Wed Jan 15 11:55:05 2025 +0500
+
+    Late Answ
+
+commit c75721084f788dfb580859de342d1f78321641f0
+Merge: d07143b 98302e0
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sun Jan 5 17:28:31 2025 +0500
+
+    Merge pull request #7 from ZahraAhmadi2020/PRERELEASE
+    
+    Prerelease
+
+commit 98302e0c2bbf1e58a039ac4f99c553e814026924
+Author: ZahraAhmadi2020 <Ahmadi.work3094@gmail.com>
+Date:   Sun Jan 5 17:06:14 2025 +0500
+
+    четвертое совершение
+
+commit f18e9255575d6f948c1ded2c96de7e3c303639c4
+Author: ZahraAhmadi2020 <Ahmadi.work3094@gmail.com>
+Date:   Sun Jan 5 17:00:09 2025 +0500
+
+    третье коммит
+
+commit bccc630800ea4ed0d481f8ea45f096290512ef4a
+Author: ZahraAhmadi2020 <Ahmadi.work3094@gmail.com>
+Date:   Sun Jan 5 16:53:34 2025 +0500
+
+    Мой первый коммит
+
+commit d07143b1d425111b0718d0ca5712af3d93ae1053
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Dec 14 01:04:02 2024 +0500
+
+    manual fixed
+
+commit 902f3714a63be86aba7485dfe0a838f1192b91f0
+Merge: 7114f23 6b306e7
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Dec 7 11:59:33 2024 +0500
+
+    Merge pull request #4 from Falaleev-Vadim/main
+    
+    final commit
+
+commit 6b306e7cb5c616bda7c0a720cae57fb8cfbdba80
+Author: Vadim Falaleev <falaleev.vadim.02@gmail.com>
+Date:   Sat Dec 7 10:24:34 2024 +0500
+
+    final commit
+
+commit 7114f2323662dff3e046cf6447800e58eee40114
+Merge: 9f7a326 996743e
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Nov 30 00:12:17 2024 +0500
+
+    Merge pull request #2 from botMr/main
+    
+    Add files via upload
+
+commit 996743e2ce000b0204f244cc42da2e9c013ac15e
+Merge: 2e56bc9 9f7a326
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Nov 30 00:12:09 2024 +0500
+
+    Merge branch 'main' into main
+
+commit 9f7a326b004f839524ea08b5b2e01e5cb6002336
+Merge: d2b1836 a725fce
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Nov 30 00:11:40 2024 +0500
+
+    Merge pull request #3 from Sightfix31/main
+    
+    Add files via upload
+
+commit a725fced5328ea4dd7026a6233562a8df5ae9376
+Author: Sightfix31 <sightfix31@gmail.com>
+Date:   Thu Nov 21 21:07:13 2024 +0500
+
+    Add files via upload
+
+commit 2e56bc937494ce6606ce334ab6d0cbcf2407e7eb
+Author: botMr <75548834+botMr@users.noreply.github.com>
+Date:   Thu Nov 21 20:39:52 2024 +0500
+
+    Add files via upload
+    
+    Добавление файла ХлыстовКА.txt и обнолвение Сдали.txt
+
+commit d2b1836b9ae087e5a2599f708f89d94002c69705
+Merge: 84f27c9 f767ddf
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Thu Nov 14 12:13:40 2024 +0500
+
+    Merge branch 'PRERELEASE'
+
+commit 84f27c98c4559e047a383d6e8f5b05b54fc4e6e9
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:51:17 2024 +0500
+
+    add logs of git
+
+commit 9d67d63008a7c1168ddcb56cc49f4f57aa973bb3
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:50:15 2024 +0500
+
+    addded me in file
+
+commit f767ddf9f5f9112de3da94038e9d80b590497341
+Merge: 6cb930b b4b3f20
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:40:09 2024 +0500
+
+    Merge branch 'PRERELEASE' of https://github.com/ProgramIngeneering2024/Practice101 into PRERELEASE
+
+commit 6cb930b3f8d021d5c7c8f5cb8684903ecdf02fce
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:18:55 2024 +0500
+
+    added prerealese.txt
+
+commit 52b143bf4481686ae0d6ac76ddf490488aa08ebe
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:17:57 2024 +0500
+
+    added test.txt
+
+commit 5c0fc1f44b977214a7c36d5b09d2edb8273d6be1
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:15:32 2024 +0500
+
+    added .gitignore
+
+commit 1f185eed2b473adac0699c56f963632eb1f06a4a
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:10:19 2024 +0500
+
+    Revert "added grade"
+    
+    This reverts commit ee8a5740e492d7cc6a824c3884c65b4a7fdb29d7.
+
+commit cea1d9aa852746938fa4e0eee2cb3ae038735f03
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:07:48 2024 +0500
+
+    added number of classroom
+
+commit ee8a5740e492d7cc6a824c3884c65b4a7fdb29d7
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:05:54 2024 +0500
+
+    added grade
+
+commit 97392691ab4635d45e24422d2cc6f934db658bbb
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:02:54 2024 +0500
+
+    My first commit
+
+commit c41a6a27c87d3bc61cc1573e4cee16165031835f
+Author: alyonafilyaeva <74866828+alyonafilyaeva@users.noreply.github.com>
+Date:   Wed Nov 13 16:28:38 2024 +0500
+
+    Add files via upload
+
+commit 8020b7daf302bc7ac7db15cdd99445ab23804435
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Tue Nov 12 00:11:07 2024 +0500
+
+    Khamitov > sdali
+
+commit 59d281403de82527e688e11abc30af7f700c24a1
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:51:44 2024 +0500
+
+    khamitovMA works
+
+commit e9356dc9f73ecc0244bf9a287c46727a8814e199
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:27:37 2024 +0500
+
+    Initial commit
+
+commit 2d6ec502f33636466d1a170829093605a7c6d346
+Author: Aleksey <a.sokolkov@gmail.com>
+Date:   Sat Nov 9 18:58:33 2024 +0500
+
+    feat: asokolkov hw01
+
+commit 19d7930a3935b415b761a328cc3c3c33fc33aedc
+Author: Plazmer <praw2003@gmail.com>
+Date:   Sat Nov 9 10:21:01 2024 +0500
+
+    Присяжный А.В.
+
+commit ce89c7e4407e14f0fac24fc8bdbb6ff43301ac54
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Sat Nov 9 03:11:09 2024 +0500
+
+    Восстановил :(
+
+commit b4b3f20ea1a401b001f6e152f9908ea1f03f6c09
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Sat Nov 9 00:27:05 2024 +0500
+
+    Send final files for task 1 (ФИО.txt and Сдали.txt)
+
+commit 9995240a791466bb24b61f7dda14faf3d0be56b4
+Merge: 61c27ce 8932e8c
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Sat Nov 9 00:24:27 2024 +0500
+
+    Merge branch 'PRERELEASE' of https://github.com/ProgramIngeneering2024/Practice101 into PRERELEASE
+
+commit 61c27ce675592eedd9d79a0904a037e68ef7b745
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Sat Nov 9 00:03:06 2024 +0500
+
+    Create prerelease file on branch PRERELEASE
+
+commit 5d160a0426c4ef259f46e6f369c3aef7d21f6a9f
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Sat Nov 9 00:01:53 2024 +0500
+
+    Create test file on TEST branch
+
+commit 8075599d1a7a7591fd87e71df3c8531c3f0ac94d
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Fri Nov 8 23:59:19 2024 +0500
+
+    Create gitignore file
+
+commit dd89aaa02ababdbeec41295b182e65fd616cac40
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Fri Nov 8 23:55:00 2024 +0500
+
+    Revert "Second commit with task difficulty raiting"
+    
+    This reverts commit 9b4ea99c3d4deb547413e270ea45dd31885566b3.
+
+commit db1ce00d924242607ce47827976b2fab9a9b4367
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Fri Nov 8 23:50:08 2024 +0500
+
+    Third commit with classroom
+
+commit 9b4ea99c3d4deb547413e270ea45dd31885566b3
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Fri Nov 8 23:40:12 2024 +0500
+
+    Second commit with task difficulty raiting
+
+commit 5a324ab928856fe08e180cfa9935f78bd9f90e27
+Author: frog016 <mixalyov.nikita@mail.ru>
+Date:   Fri Nov 8 23:18:47 2024 +0500
+
+    My first commit
+
+commit 8932e8cfe9faaef454a044cf9111ce886cc60d45
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Fri Nov 8 18:07:19 2024 +0100
+
+    Ajout de mon nom dans Сдали.txt et enregistrement du log dans ФамилияИО.txt
+
+commit 5ee86a82ee93e11b5041981d1eec7c3fc0abdde5
+Merge: 09fbdc9 ccd88dc
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Fri Nov 8 17:34:17 2024 +0100
+
+    Removed practice101 from index and added to .gitignore
+
+commit ccd88dc283942f623f83d3d761f0a6a555821b1a
+Author: Vadim <133339027+Falaleev-Vadim@users.noreply.github.com>
+Date:   Fri Nov 8 19:54:52 2024 +0500
+
+    -
+
+commit e4a02b1fd0bf5cdc7ddd0eb22d7edcf636d8a410
+Author: Vadim <133339027+Falaleev-Vadim@users.noreply.github.com>
+Date:   Fri Nov 8 19:52:43 2024 +0500
+
+    add falaleev file
+
+commit f9c6c6c53fbb97b585122d234e7d07c9bd1d03d4
+Author: Vadim <133339027+Falaleev-Vadim@users.noreply.github.com>
+Date:   Fri Nov 8 19:41:20 2024 +0500
+
+    Update Сдали.txt
+
+commit 7c58560e9661ed0cd008d9e9550eec37eba6b9e6
+Merge: fe52397 5249b92
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 19:09:18 2024 +0500
+
+    Решен конфликт
+
+commit fe52397b87b06a49bab946c2cdd827e6fd1646a0
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 19:07:06 2024 +0500
+
+    Решен конфликт
+
+commit 5249b92bb18437238eda3a08ce4bf90778c045b6
+Merge: 1764479 b864841
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 19:04:49 2024 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2024/Practice101
+
+commit b86484103580c4ba4ef7773d4d014558d20240ab
+Author: Vethy18 <100441346+Vethy18@users.noreply.github.com>
+Date:   Fri Nov 8 19:04:37 2024 +0500
+
+    Update Сдали.txt
+
+commit 13cd0561a22f89b18ef269cafb36b30063761bdf
+Merge: a9d384f d34fc75
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 19:03:49 2024 +0500
+
+    Решен конфликт
+
+commit 1764479afd1afece3781ffef2e7f3c269fa4f61c
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 19:01:10 2024 +0500
+
+    Done
+
+commit d34fc7597e1ee5775967778a335db8d3660e9b46
+Author: Vethy18 <100441346+Vethy18@users.noreply.github.com>
+Date:   Fri Nov 8 18:58:43 2024 +0500
+
+    Update Сдали.txt
+
+commit a9d384f771af0d770ebb4f11830e6c739c5bb17e
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:54:15 2024 +0500
+
+    Добавлено время выполнения ДЗ
+
+commit ebb370b3c3564a6b7b1988e605c7d02e2b4682d9
+Merge: 56beca9 6d8c067
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:48:16 2024 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2024/Practice101
+
+commit ea8490377844760f7fc9b1092e89521f428c3799
+Merge: 950a0c4 6d8c067
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Fri Nov 8 18:47:42 2024 +0500
+
+    Merge branch 'main' of github.com:ProgramIngeneering2024/Practice101 into main
+
+commit 6d8c067791997d8e0870b36b0ee8332e19177cb6
+Merge: e99467f 38a43b2
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 18:33:32 2024 +0500
+
+    Разрешены конфликты при слиянии
+
+commit 950a0c4ee38355d99985970cdbb1b92db868b870
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Fri Nov 8 18:27:21 2024 +0500
+
+    added files
+
+commit 56beca92086ef50dd4ab5b81dd0006b09f2a290a
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:23:32 2024 +0500
+
+    Добавлен файл git log
+
+commit e99467fb641495e69a098c9c17a66d6b1e8497ff
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 18:08:42 2024 +0500
+
+    Добавили два файла: НоровБС.txt и Сдали.txt
+
+commit 120bb99b35063686deb7bddd011316dedc31dd81
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:07:11 2024 +0500
+
+    Добавлен файл test.txt
+
+commit 1aafaee7110fa569199844e4824cf7620afc67d8
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:02:59 2024 +0500
+
+    Еще один коммит
+
+commit 500ba6475f63de9a405367111d1cf102c6676805
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 17:56:41 2024 +0500
+
+    Revert "Добавлена оценка текущего статуса в readme.txt"
+    
+    This reverts commit 8056095d66b313dfefbdbad8feaf4ba49e2fb0c7.
+
+commit 38a43b281c7763002a64038419a8825e8047f439
+Merge: 490ce2c a0f8781
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 17:43:21 2024 +0500
+
+    Добавлен файл с логамами
+
+commit da7bc9902d860e03b0b748c702641df41ba27740
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:28:58 2024 +0500
+
+    Добавлен файл prerelease.txt в ветке PRERELEASE
+
+commit 490ce2cd04963d70f03a711afad1d5def49efd95
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 17:32:40 2024 +0500
+
+    Добавлен файл с логамами)
+
+commit 81d81db97b2703b000007a4d285b9884bb78fbac
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:27:24 2024 +0500
+
+    Добавлен файл test.txt в ветке TEST
+
+commit 7f9dd904fac5502aaad93f055bed1bde53707652
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:23:06 2024 +0500
+
+    Добавлен файл для игнорирования
+
+commit d5a209fc72608cc3d6f9231a3d29bbd21ba0e7fb
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:19:54 2024 +0500
+
+    Revert "Добавлена оценка 5 по шкале"
+    
+    This reverts commit f5f07cbbd8140aa9903881cd875a0b57cd7def28.
+
+commit 147f08b55460f0ae3ffae1eb1fce35ea5abdbad1
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 17:19:46 2024 +0500
+
+    Добавлен файл с логами
+
+commit a2aa3f4d178a6dcbe9cb24268e339f938366ce70
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:12:58 2024 +0500
+
+    Добавлена аудитория
+
+commit f5f07cbbd8140aa9903881cd875a0b57cd7def28
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:09:25 2024 +0500
+
+    Добавлена оценка 5 по шкале
+
+commit c515d45bbc714f6fd188557417bae251ee952d18
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:07:46 2024 +0500
+
+    Добавлен файл readme.txt с информацией о группе и фамилии
+
+commit f408bd6ff2bb07500291721af201e887680a7d92
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:57:29 2024 +0500
+
+    Коммит в ветку пререлиз
+
+commit b3640920ef64e3f41e287cfc39d274057caf59d6
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:57:23 2024 +0500
+
+    Добавлено название аудитории в readme.txt
+
+commit a0b2eebffde9b5ea68c3df5bb3bb3bbbbed522d5
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:56:38 2024 +0500
+
+    Коммит в ветку тест
+
+commit a0f8781414e818bcff340a83ee9f4cb746cf1588
+Author: AMATI-13 <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:55:44 2024 +0300
+
+    Update ФамилияИО.txt
+
+commit 55ed19ba5aeeefaaa426f329b8385925330ebfb4
+Author: AMATI-13 <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:54:04 2024 +0300
+
+    Update Сдали.txt
+
+commit 8831ae116e2dc6b52ba4d01a9cedb1ef0eb49f6c
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:53:28 2024 +0500
+
+    Мой четвертый коммит
+
+commit 1ef2a0954cac71c58835deeb431045867e412b82
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:51:08 2024 +0500
+
+    Revert "Мой второй коммит, изменён"
+    
+    This reverts commit 6c9761657d937d64e9d97037cde45d6bb827b220.
+
+commit 8056095d66b313dfefbdbad8feaf4ba49e2fb0c7
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:32:57 2024 +0500
+
+    Добавлена оценка текущего статуса в readme.txt
+
+commit 1de6cbe2e8e060d18894718330acbb0f2a22cb2e
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:46:42 2024 +0500
+
+    Мой третий коммит
+
+commit 6c9761657d937d64e9d97037cde45d6bb827b220
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:43:46 2024 +0500
+
+    Мой второй коммит, изменён
+
+commit e969b922fcd34ccf4d86bbed8104422f82e43d65
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:42:12 2024 +0500
+
+    Мой первый коммит
+
+commit 705fadbeb5909158ffab704d396c6bb092068d54
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:18:03 2024 +0500
+
+    Мой первый коммит
+
+commit c2bf163a966f266db06c2fbb3c1c3029e6238ad7
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 15:37:27 2024 +0500
+
+    Updated log
+
+commit 8f1c65d2c329545535bb9ae888f0ace00aed2e17
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 13:10:12 2024 +0500
+
+    Passed
+
+commit cfc05bacc4583ccf43fc0def32f87868757f207b
+Merge: 9e76638 c1f60f6
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 13:01:20 2024 +0500
+
+    merge readme
+
+commit 9e76638ac36425974c80e4376098c8af8805f745
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:31:46 2024 +0500
+
+    Add local log
+
+commit 1a2d19dba4bb0445624998631161d4f68b0ce99c
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:18:09 2024 +0500
+
+    Add prerelease.txt
+
+commit 46ff8608b591f3d91985101852684703deffa5b7
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:15:12 2024 +0500
+
+    Add .gitignore
+
+commit c1f60f6b0185b3085e02fb22016ae93d06713b57
+Author: AnnaErs <annaershova02@gmail.com>
+Date:   Fri Nov 8 12:15:01 2024 +0500
+
+    final commit in practice_repo
+
+commit 59e5bb4b9738dfdc89d16e56f527d3bdbcb56ec6
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:10:03 2024 +0500
+
+    Revert "Add status"
+    
+    This reverts commit fb6efdb5a0bceb14fefe0229214f092cac024209.
+
+commit 9fe845f1bb40cecbbbb9f949fa91ddf7a9bae76a
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:06:06 2024 +0500
+
+    Add classroom
+
+commit fb6efdb5a0bceb14fefe0229214f092cac024209
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:01:04 2024 +0500
+
+    Add status
+    
+    Add class name
+
+commit 33746dc54ab316b583e4465a8770dd898363be73
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 11:58:45 2024 +0500
+
+    Initial commit
+
+commit 1afd2aa4a3902eacec8916956ed6f570ebc4ae28
+Author: holasoyann <nktnnnl@gmail.com>
+Date:   Fri Nov 8 02:17:06 2024 +0500
+
+    done task
+
+commit bc1c01eb103e17f9cafeb28eb8f8c93da73b643e
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Fri Nov 8 00:29:24 2024 +0500
+
+    task
+
+commit 65325cebe858636147b19782ecf048ac047d324c
+Merge: f62b2a0 9a56c79
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Fri Nov 8 00:05:29 2024 +0500
+
+    merge
+
+commit f62b2a0f7c7e7dadcb3dbc00a6175156f2ff709e
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:45:11 2024 +0500
+
+    pass task
+
+commit 449e2fe372eaafcac3fc4851b2bfa65445a537de
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:44:40 2024 +0500
+
+    logs
+
+commit 9a56c7938d38cd0d405d8bc5cae1fc61c2d255e1
+Author: Anastasiia Grigoreva <grinastich@gmail.com>
+Date:   Thu Nov 7 23:21:51 2024 +0500
+
+    файл с логами
+
+commit b228f64eda2e8029348a6a50e707fd75cfb98899
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:11:40 2024 +0500
+
+    add gitignore
+
+commit 62bd566fa1cc9826d0d5732f60b26e05b4034787
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:05:44 2024 +0500
+
+    Revert "Мой второй коммит"
+    
+    This reverts commit 7802efefb3c8b05d716339a94310019a78423296.
+
+commit 2f362b13f9b1428be06c50069ed16e2fededdc6d
+Author: Anastasiia Grigoreva <grinastich@gmail.com>
+Date:   Thu Nov 7 23:04:03 2024 +0500
+
+    grigoreva
+
+commit 863d3f2413029530127a28f7942b4ad710339c64
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:57:32 2024 +0500
+
+    Третий коммит
+
+commit 7802efefb3c8b05d716339a94310019a78423296
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:40:27 2024 +0500
+
+    Мой второй коммит
+
+commit 08c82d7d086ae2c486f35ecbd620a3681e365b5b
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 22:51:52 2024 +0500
+
+    Добавил время и свои логи
+
+commit 1b951164e6abb7c57c3b5caf49ae799ec8cde139
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:36:23 2024 +0500
+
+    Мой первый коммит
+
+commit 4efa670952008f6dfa81296513d497bfd45704c6
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Thu Nov 7 20:12:16 2024 +0500
+
+    добавлены логи локального репозитория
+
+commit c5faacebeb5794eae2b5ebadbacfb0d41fa8186b
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 19:15:01 2024 +0500
+
+    test added
+
+commit b203682352d86a3ae7c6722bce90a40017b42462
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 19:10:08 2024 +0500
+
+    added gitignore
+
+commit 734bc46c08857a1ec57547423ac1c87c6237d639
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 19:07:02 2024 +0500
+
+    Revert "my second commit, changed"
+    
+    This reverts commit 8271244b71f574641180c7a2375f1cdbb808e3ae.
+
+commit c9906881fa920ad20504665c1753f62277f9b2a5
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 19:01:18 2024 +0500
+
+    third
+
+commit 8271244b71f574641180c7a2375f1cdbb808e3ae
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 18:58:54 2024 +0500
+
+    my second commit, changed
+
+commit 940cc30de1eccfc8b3a3ebf132b084148d26d22d
+Author: Konstantin <rebrin24@gmail.com>
+Date:   Thu Nov 7 18:57:19 2024 +0500
+
+    my first commit
+
+commit d8c4e709323389c6a9b560a97ce112078fdd455f
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Thu Nov 7 18:20:57 2024 +0500
+
+    added my time
+
+commit 09fbdc96d805482b785f17079b1d795a58410cb2
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 11:56:44 2024 +0100
+
+    Add the file Сдали.txt with date, hour et name
+
+commit 7fa6f026794e0bc3500770fcfba563b080838f2d
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 10:12:13 2024 +0100
+
+    Добавлен файл prerelease.txt в ветку PRERELEASE
+
+commit 6a8a2d00b433133ddd1c952ffd208fe74f8e3651
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 09:44:50 2024 +0100
+
+    Добавлен файл test.txt в ветку TEST
+
+commit 732ff1f2dfc1a40ca3706e8cc80bb3a12692c7a1
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 09:40:01 2024 +0100
+
+    Добавлен .gitignore для игнорирования временных файлов
+
+commit 25d388ee09c5b57682eb6c4f45d0de1557d43ec3
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 10:19:35 2024 +0100
+
+    Revert "третий коммит - добавлена аудитория"
+    
+    This reverts commit e9331aa62433a7367ebcc472ce8f9323663681b1.
+
+commit 81426f8cff97932a22d084f0ca85f4adbb13409b
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 10:03:42 2024 +0100
+
+    Аудитория
+
+commit e9331aa62433a7367ebcc472ce8f9323663681b1
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 08:42:30 2024 +0100
+
+    третий коммит - добавлена аудитория
+
+commit 8ddcb576358269d631fddac2904ec326182b0e51
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 08:39:53 2024 +0100
+
+    Второй коммит
+
+commit e84452c7c6fb246f58dc59f23344f9e319562619
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 07:28:20 2024 +0100
+
+    Мой первый коммит
+
+commit 8a450b2890e21db62b0b6aca4f519fd1234c380d
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:26:34 2024 +0500
+
+    new file
+
+commit e5baa292a70515f086a70b9ad8e640842a5f035b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:18:28 2024 +0500
+
+    created .gitigonre
+
+commit bad2aacfe9e14afc5e31cc2b95a3bdc9a44e3e03
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:09:00 2024 +0500
+
+    Revert "added current status"
+    
+    This reverts commit d4e1d42f1452f01788f708e97762c89543deaa33.
+
+commit 6853f190f824a6f56a31806baad696493ba2fc2c
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:01:14 2024 +0500
+
+    added lesson place
+
+commit d4e1d42f1452f01788f708e97762c89543deaa33
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:52:37 2024 +0500
+
+    added current status
+
+commit 8e4ec68791774b2a5462f7783058d11cf9534d7b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:48:06 2024 +0500
+
+    message

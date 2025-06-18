@@ -1,0 +1,37 @@
+commit 672d60ececf7b2f70f6fc449baedb980933bed27
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 02:47:40 2025 +0900
+
+    add prerelease.txt
+
+commit ba6a7b2047cd355e2903601b0b883bd5af60edfe
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 02:44:52 2025 +0900
+
+    add test.txt
+
+commit a869bccdc2db7f418103b554b54b88037bd4b730
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 02:15:34 2025 +0900
+
+    Revert "Second commit: score. changed"
+    
+    This reverts commit 11115e345e7901a438e6daf053eea010617a3cfa.
+
+commit 0bc23ec7280c5fe85852428f1303144da9e22d9e
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 02:07:52 2025 +0900
+
+    Third commit
+
+commit 11115e345e7901a438e6daf053eea010617a3cfa
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 02:00:01 2025 +0900
+
+    Second commit: score. changed
+
+commit b961efe1a3bd7103b09b7773ddbe1c625662deca
+Author: VanchikPro <dorofienko.ivan@mail.ru>
+Date:   Sun Jan 19 01:32:26 2025 +0900
+
+    My first commit
